@@ -39,7 +39,7 @@
 
 
 ## 실행결과
-Juniper, 총 결제금액: 12000.0 원
-Oak, Cherrybulb, Santa, Star, 총 결제금액: 14300.0 원
-Pine, Santa, Star, 총 결제금액: 14000.0 원
++ Juniper, 총 결제금액: 12000.0 원
++ Oak, Cherrybulb, Santa, Star, 총 결제금액: 14300.0 원
++ Pine, Santa, Star, 총 결제금액: 14000.0 원
 
